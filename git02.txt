@@ -3,3 +3,5 @@
 여기서도 추가
 
 sale code
+
+git test CLI
